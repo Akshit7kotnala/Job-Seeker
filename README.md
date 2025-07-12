@@ -1,8 +1,8 @@
-💼 Job Seeker
-📌 Overview
+# 💼 Job Seeker
+# 📌 Overview
 Job Seeker is a social media-style web application tailored for professional networking and job seekers. Users can post updates, connect with others, like & comment, manage their profiles, and search for professionals.
 
-✅ Features
+# ✅ Features
 Authentication
 
 Start a Post
@@ -25,7 +25,7 @@ Add Post Images
 
 Search For Other Users
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 Frontend: HTML, CSS, JavaScript / React (adjust as per your actual stack)
 
 Backend: Node.js / Express / Django (adjust accordingly)
@@ -36,27 +36,27 @@ Authentication: JWT / OAuth
 
 Others: Cloudinary, Postman
 
-🚀 How to Run Locally
+# 🚀 How to Run Locally
 bash
 Copy
 Edit
 
-# Clone the repository
+1. Clone the repository
 
 git clone https://github.com/Akshit7kotnala/Job-Seeker.git
 
-# Navigate into the directory
+2. Navigate into the directory
 
 cd Job-Seeker
 
-# Install dependencies
+3.  Install dependencies
 
 npm install
 
-# Start the server
+4. Start the server
 
 npm start
-🔮 Future Scope
+# 🔮 Future Scope
 Real-time chat between connections
 
 Notification system
@@ -67,10 +67,10 @@ Save and share posts
 
 Admin panel for user moderation
 
-🤝 Contributing
+# 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue to discuss the change.
 
-📬 Contact
+# 📬 Contact
 📧 Email: akshit7kotnala@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/akshit7kotnala
